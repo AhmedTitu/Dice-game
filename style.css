@@ -1,0 +1,10 @@
+body {
+    background-image: url('img/sybE8D.jpg');
+    background-size: cover;
+}
+img{
+    width: 400px;
+    height: 350px;
+    float: right;
+    margin-right: 100px;
+    }
